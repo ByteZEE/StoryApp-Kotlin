@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="copyright">© 2022 StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="choose_a_picture">Pilih gambar</string>
+    <string name="title_welcome_page">Selamat Datang di Story Application</string>
+    <string name="message_welcome_page">Dengan Story Application, Anda dapat melihat aktivitas orang-orang di sekitar Anda</string>
+    <string name="title_login_page">Selamat Datang di Story Application</string>
+    <string name="message_login_page">Silahkan login</string>
+    <string name="title_signup_page">Silahkan isi data anda</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="required_field">Bagian ini diperlukan!</string>
+    <string name="logout">Keluar</string>
+    <string name="language">Bahasa</string>
+    <string name="retrofit_instance_failed">Retrofit gagal</string>
+    <string name="please_enter_the_image_file_first">Silakan masukkan file gambar terlebih dahulu</string>
+    <string name="error">Eror:</string>
+    <string name="success">Sukses</string>
+    <string name="upload_story">Unggah Story</string>
+    <string name="input_image">Tolong masukkan gambar</string>
+    <string name="retry">Ulang</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Peta</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
